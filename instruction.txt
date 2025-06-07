@@ -1,3 +1,5 @@
 to run the application, follow the link 
 https://cozzero.github.io/movie-finder/
 donot modify, just use it and see what to does.
+
+if the link doesnot run then you can run it locally on your device as download all in a single folder, run that folder in any IDE, enusre you have node installed in the device, be in the root and run code "npm run dev"
